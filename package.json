@@ -2,6 +2,7 @@
   "name": "top-uyo-devs",
   "version": "0.0.0",
   "license": "MIT",
+  "main":"server.js",
   "scripts": {
     "ng": "ng",
     "build": "ng build && node server.js",
