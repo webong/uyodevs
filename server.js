@@ -26,7 +26,7 @@
  /** 
  * Get port from environment and store in Express
  */
- const port = process.env.Port || '3001';
+ const port = process.env.Port || '5000';
  app.set('port', port);
 
     /**
